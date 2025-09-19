@@ -3,6 +3,7 @@
 ## 1. Project Overview
 
 **Project Title**: 📱Mobile-Sales-Data-Dashboard
+
 An interactive Power BI dashboard designed to analyze and visualize mobile phone sales data—highlighting performance by brand, city, payment method, customer ratings, and time trends.
 
 ## 2. 🔎Project Description
