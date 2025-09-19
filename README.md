@@ -53,7 +53,7 @@ To provide a comprehensive view of mobile sales performance across regions, time
 - Delhi, Mumbai, and Bangalore are top-performing cities.
 - Customer ratings skew positively with a majority rating of 4–5 stars, indicating high satisfaction levels.
 
-## 6. 📸Screenshots / Demos
+## 6. 📸Screenshots
 [Sales at a Glance](https://github.com/gulrez-zaidi/Mobile-Sales-Data-Dashboard/blob/main/Sales%20at%20a%20Glance.png)
    
 
